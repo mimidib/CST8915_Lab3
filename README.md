@@ -15,6 +15,10 @@
 
 🎥 [Watch Demo Video](https://youtu.be/ofNjBNLHcv4)
 
+## Repository Links:
+- [order-service](https://github.com/mimidib/order-service-lab2-demo/tree/main)
+- [product-service](https://github.com/mimidib/product-service-L3P)
+- [store-front](https://github.com/mimidib/store-front-lab2)
 
 ### Reflection Questions
 
